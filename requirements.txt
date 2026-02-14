@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+chromadb
+faiss-cpu
+pypdf
+beautifulsoup4
+unstructured
+fastapi
+uvicorn
+streamlit
+python-dotenv
+tiktoken
+langchain-groq
+sentence-transformers
